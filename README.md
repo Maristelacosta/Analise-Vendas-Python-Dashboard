@@ -1,6 +1,10 @@
-<<<<<<< HEAD
-\# 📊 Dashboard Comercial com Python
+# 📊 Dashboard Comercial com Python e Streamlit
 
+## 📷 Preview
+
+![Dashboard](dashboard.png)
+
+Um dashboard interativo desenvolvido para análise de vendas utilizando Python, Streamlit, Pandas e Plotly.
 
 
 \## Sobre o Projeto
